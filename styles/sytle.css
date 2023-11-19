@@ -1,0 +1,17 @@
+*{background-color: #A7D397; color: antiquewhite;}
+
+h1 {
+    background-color: #555843;
+    color: #F5EEC8;
+    height: 75px;
+    display: flex;
+    align-items: center; /* Vertically centers the content */
+    text-align: center;
+  }
+
+  h2{background-color: #BCA37F;width: fit-content; b}
+
+  p{background-color: #113946;}
+
+  .links{background-color: #113946; width:min-content;}
+  ol{background-color: #113946;}
