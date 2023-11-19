@@ -1,17 +1,24 @@
 *{background-color: #A7D397; color: antiquewhite;}
 
 h1 {
-    background-color: #555843;
-    color: #F5EEC8;
-    height: 75px;
-    display: flex;
-    align-items: center; /* Vertically centers the content */
-    text-align: center;
-  }
+  background-color: #555843;
+  color: #F5EEC8;
+  height: 75px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between; /* Add space between content */
+  padding: 0 10px; /* Add padding for better spacing */
+}
 
   h2{background-color: #BCA37F;width: fit-content; b}
 
-  p{background-color: #113946;}
+  .mainpage {
+    background-color: #555843;
+    text-align: right;
+    padding-right: 10px; /* Add some right padding for better spacing */
+}
 
+p{background-color: #113946;}
+.mainlinks{background-color: #BCA37F;width: fit-content; b}
   .links{background-color: #113946; width:min-content;}
   ol{background-color: #113946;}
