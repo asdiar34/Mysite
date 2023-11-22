@@ -1,4 +1,4 @@
-*{background-color: #A7D397; color: antiquewhite;}
+*{background-color: #A7D397; color: antiquewhite; }
 
 h1 {
   background-color: #555843;
@@ -8,8 +8,10 @@ h1 {
   align-items: center;
   justify-content: space-between; /* Add space between content */
   padding: 0 10px; /* Add padding for better spacing */
-  width: 100%;
+  width: 94%;
   margin: 0px;
+  border: 15px ridge coral;
+
 }
 
   h2{background-color: #BCA37F;width: fit-content; b}
@@ -21,6 +23,6 @@ h1 {
 }
 
 p{background-color: #113946; border: 5px solid black; padding: 10px}
-.mainlinks{background-color: #BCA37F;width: fit-content; b}
+.mainlinks{background-color: #BCA37F;width: fit-content; }
   .links{background-color: #113946; width:min-content;}
   ul{background-color: #113946; width: 150px; border: 5px solid black;}
